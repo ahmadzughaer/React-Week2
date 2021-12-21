@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.homePage h1 {
+    color: aqua;
+}
+
+.productPage a {
+    display: block;
+}
+
+.homePage a {
+    display: block;
+}

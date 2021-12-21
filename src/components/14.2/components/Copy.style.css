@@ -1,0 +1,19 @@
+body {
+    background: black;
+}
+.input {
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.input button {
+    margin-top: 1%;
+}
+
+.input p {
+    color: rgb(9, 236, 236);
+}

@@ -1,0 +1,7 @@
+.input {
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
